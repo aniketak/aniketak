@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Aniket Kargutkar
 
-<!--
-**aniketak/aniketak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 FullStack Developer | Django| FastApi | React | Data Enthusiast  
 
-Here are some ideas to get you started:
+I’m a passionate developer with experience in:
+- 🐍 Python, Django, FastApi and REST APIs
+- ⚙️ Server & infrastructure monitoring scripts
+- 📊 Data visualization
+- 🌐 React & frontend integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced algorithms & dynamic programming
+- System design and backend scalability
+
+### 🚀 Projects
+- 🖥️ **Server Monitoring App** – Real-time monitoring of 35+ servers
+- 💰 **Cash Forecasting System** – Integrated APIs for fintech data visualization
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Kargutkar-blue)](https://www.linkedin.com/in/aniket-k-3a80aa1bb/)
+[![GitHub](https://img.shields.io/badge/GitHub-@aniketkargutkar-black)](https://github.com/aniketak)
+[![Twitter](https://img.shields.io/badge/Twitter-@aniketkargutkar-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Aniketak_17)
+
