@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aniket Kargutkar
 
-💻 FullStack Developer | Django| FastApi | React | Data Enthusiast  
+💻 FullStack Developer | Django | FastApi | React | Data Enthusiast  
 
 I’m a passionate developer with experience in:
 - 🐍 Python, Django, FastApi and REST APIs
